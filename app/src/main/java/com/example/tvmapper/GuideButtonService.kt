@@ -1,4 +1,3 @@
-Kotlin
 package com.example.tvmapper
 
 import android.accessibilityservice.AccessibilityService
